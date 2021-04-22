@@ -1,0 +1,2 @@
+# better-swiper
+ pluggable swiper
